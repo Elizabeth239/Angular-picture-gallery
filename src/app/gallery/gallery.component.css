@@ -1,0 +1,11 @@
+p img{
+width: 80px;
+height: 100px;
+margin-right: 3px;
+}
+p{
+	display: inline-block;
+}
+p img:hover{
+	border: 3px solid red;
+}
